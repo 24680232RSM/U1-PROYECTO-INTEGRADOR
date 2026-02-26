@@ -68,3 +68,12 @@ El script utiliza los siguientes conceptos avanzados de graficación:
 * **Blender** 2.80 o superior.
 * Conocimientos básicos de la interfaz de Blender para visualizar el render.
 
+##  Visualizacion del Codigo y Animacion
+
+<img width="1658" height="1079" alt="image" src="https://github.com/user-attachments/assets/3a8e0d4a-5ac0-4e71-abc8-c30c1b36df28" />
+<img width="1648" height="1079" alt="Screenshot 2026-02-25 231632" src="https://github.com/user-attachments/assets/c3860ad9-41f3-490d-903e-02c72864926b" />
+<img width="1672" height="1069" alt="Screenshot 2026-02-25 231617" src="https://github.com/user-attachments/assets/043e2dd0-6ec7-405c-aac5-709bad7a5419" />
+<img width="1616" height="1014" alt="Screenshot 2026-02-25 231600" src="https://github.com/user-attachments/assets/a9dc8de0-441e-44d0-9e49-07f404c76e99" />
+
+
+
